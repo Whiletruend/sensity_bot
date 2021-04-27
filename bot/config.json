@@ -1,0 +1,11 @@
+{
+    "token": "can't show this, sorry :)",
+    "prefix": "!",
+    "welcome_channel": "welcome",
+    "version": "1.0.3",
+    "project_category": "🔨 │ Projects",
+    "sensity_rank": "💼┃Sensity",
+    "base_rank": "👤┃Member",
+    "rules_channel": "rules",
+    "admin_channel": "bot-commands" 
+}
